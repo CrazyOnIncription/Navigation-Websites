@@ -44,6 +44,12 @@ Wizz还有浏览器插件钱包和APP钱包，大家自行探索
 
 :tada:**Blockstream浏览器，看UTXO余额，把中间的比特币地址换为自己的**[https://blockstream.info/api/address/](https://blockstream.info/api/address/bc1ptqltt4y4rxsz04l6ddkkhfu0qnn7fkmfr2hg7yk05ykq8dfvfgnspvdugj/utxo)bc1pa5hvv3w3wjwfktd63zcng6yeccxg9aa90e34n9jrjw3thgc52reqxw6has/[utxo](https://blockstream.info/api/address/bc1ptqltt4y4rxsz04l6ddkkhfu0qnn7fkmfr2hg7yk05ykq8dfvfgnspvdugj/utxo)
 
+
+
+:tada:**ARC20专属浏览器**
+
+[https://atomscan.org/](https://atomscan.org/)
+
 ***
 
 _欢迎关注本文作者的twitter并提出宝贵意见：_[_https://twitter.com/zzmjxy_](https://twitter.com/zzmjxy)
