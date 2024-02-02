@@ -16,7 +16,7 @@ coverY: 0
 
 \--**金狗博士,有很多对ARC20的真知灼见:**[https://twitter.com/ordjingle](https://twitter.com/ordjingle)
 
-**--Bitatom的创始人Zen，项目进展+真知灼见:**[https://twitter.com/zen913](https://twitter.com/zen913)
+**--Bitatom的创始人Zen，项目进展+真知灼见:**[https://twitter.com/zen913](https://twitter.com/zen913) 以及Bitatom官推:[https://twitter.com/bitatom\_io](https://twitter.com/bitatom\_io)
 
 **--技术大牛hero，在coinbase工作，无限挖矿铭文详解作者:**[https://twitter.com/hero\_yang\_v](https://twitter.com/hero\_yang\_v)
 
@@ -36,6 +36,16 @@ Lambert:[https://twitter.com/404Lambert](https://twitter.com/404Lambert)
 
 好大一坨：[https://twitter.com/Pow2wer](https://twitter.com/Pow2wer)
 
+Xavier Lau:[https://twitter.com/AurevoirXavier](https://twitter.com/AurevoirXavier)
+
+Rick:[https://twitter.com/rickblock](https://twitter.com/rickblock)
+
+Quark社区：[https://twitter.com/ARC20\_QUARK](https://twitter.com/ARC20\_QUARK)
+
+Sophon社区:[https://twitter.com/SophonBTC](https://twitter.com/SophonBTC)
+
+
+
 
 
 :tada:**部分内容关于ARC20，还有其他铭文或技术的Twitter号：**
@@ -45,6 +55,8 @@ Lambert:[https://twitter.com/404Lambert](https://twitter.com/404Lambert)
 以及他创办的NextDao:[https://twitter.com/theNextDAO](https://twitter.com/theNextDAO)
 
 **博客节目ThreeBitcoiners**：[https://twitter.com/ThreeBitcoiners](https://twitter.com/ThreeBitcoiners)
+
+**Unisat钱包官推**：[https://twitter.com/unisat\_wallet](https://twitter.com/unisat\_wallet)
 
 
 
