@@ -28,7 +28,8 @@ coverY: 0
 
 :tada:关于Realm的深度研究
 
-[https://twitter.com/dchatplatypus/status/1733341047818682786](https://twitter.com/dchatplatypus/status/1733341047818682786)
+{% embed url="https://twitter.com/dchatplatypus/status/1733341047818682786" %}
+
 
 ***
 
