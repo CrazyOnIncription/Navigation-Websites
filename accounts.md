@@ -62,6 +62,22 @@ Sophon社区:[https://twitter.com/SophonBTC](https://twitter.com/SophonBTC)
 
 
 
+:tada:Atomical中文社区里置顶的社区列表Twitter号，跟上面的有重复
+
+1. 协议文档: https://docs.atomicals.xyz/
+2. 协议官推（英文）: https://twitter.com/atomicalsxyz
+3. 中文社区官推（中文）https://twitter.com/Atomicals\_CN
+4. Atomicals 开发者交流群: https://t.me/AtomDevCN
+5. 领域 Realm: https://t.me/AtomicalsRealm
+6. 电子 Electron: https://t.me/electron\_atom
+7. 中子 Netutron: https://t.me/+JHkP0GuuE\_FhMzJl
+8. 夸克 Quark: https://t.me/ARC20\_QUARK
+9. 智子 Sophon: https://t.me/SophonBTC
+10. 光子 Photon: https://t.me/arc20\_photon
+11. 小鳄鱼 Toothy: https://t.me/toothyclub
+
+
+
 
 
 ***
