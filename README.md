@@ -50,6 +50,12 @@ Wizz还有浏览器插件钱包和APP钱包，大家自行探索
 
 [https://atomscan.org/](https://atomscan.org/)
 
+
+
+:tada:中文版《原子协议指南》
+
+[https://arc20.how/](https://arc20.how/)
+
 ***
 
 _欢迎关注本文作者的twitter并提出宝贵意见：_[_https://twitter.com/zzmjxy_](https://twitter.com/zzmjxy)
