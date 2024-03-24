@@ -26,7 +26,25 @@ coverY: 0
 
 :tada:创始人采访Discussion with Arthur From Atomicals Protocol
 
-[https://www.youtube.com/watch?v=q-uksyn3a3o](https://www.youtube.com/watch?v=q-uksyn3a3o)
+[https://www.youtube.com/watch?v=q-uksyn3a3o](https://www.youtube.com/watch?v=q-uksyn3a3o)  &#x20;
+
+
+
+:tada:Wizz Wallet:从QuarkDuck项目反馈到展望Atomicals NFT生态发展
+
+[https://twitter.com/wizzwallet/status/1770779427296751916](https://twitter.com/wizzwallet/status/1770779427296751916)
+
+
+
+:tada:Bitget:与 Quark 社区揭秘 Atomicals 协议下的财富机会
+
+[https://twitter.com/Bitget\_zh/status/1770379273892958683](https://twitter.com/Bitget\_zh/status/1770379273892958683)
+
+
+
+
+
+
 
 ***
 
