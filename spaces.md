@@ -42,7 +42,39 @@ coverY: 0
 
 
 
+:tada:OKX:一次聊透 Atomicals 协议，轻松参与 Atomicals 生态
 
+[https://twitter.com/OKXWeb3\_CN/status/1768097024677937459](https://twitter.com/OKXWeb3\_CN/status/1768097024677937459)
+
+
+
+:tada:OKX:Inscription Roadmap AMA with Atomicals
+
+[https://twitter.com/\_0xSea\_/status/1764423859569144102](https://twitter.com/\_0xSea\_/status/1764423859569144102)
+
+
+
+:tada:NFT巴黎：作者分享以及相关space
+
+作者分享:[https://www.youtube.com/watch?v=haeZTY7tKTo](https://www.youtube.com/watch?v=haeZTY7tKTo)
+
+slides,数字物质革命巴黎分享:[https://twitter.com/wizzwallet/status/1764211915889471814](https://twitter.com/wizzwallet/status/1764211915889471814)
+
+欧洲破圈、永恒挖矿以及AVM等讨论：[https://twitter.com/LTT\_BTC/status/1762111717117759640](https://twitter.com/LTT\_BTC/status/1762111717117759640)
+
+The keynote speech by Erik[@BRC20Coins](https://twitter.com/BRC20Coins)[https://twitter.com/wizzwallet/status/1763964726072217970](https://twitter.com/wizzwallet/status/1763964726072217970)
+
+
+
+:tada:Wizz Wallet: Atomicals Builder Talk&#x20;
+
+[https://twitter.com/wizzwallet/status/1738488449387335786](https://twitter.com/wizzwallet/status/1738488449387335786)
+
+
+
+:tada:Wizz Wallet: Atomicals Community Call&#x20;
+
+[https://twitter.com/wizzwallet/status/1765744095048425806](https://twitter.com/wizzwallet/status/1765744095048425806)
 
 
 
