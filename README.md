@@ -56,6 +56,12 @@ Wizz还有浏览器插件钱包和APP钱包，大家自行探索
 
 [https://arc20.how/](https://arc20.how/)
 
+
+
+:tada: Atomicals vs Ordinals
+
+[https://dune.com/0xmatsu0x/atomicals-vs-ordinals](https://dune.com/0xmatsu0x/atomicals-vs-ordinals)
+
 ***
 
 _欢迎关注本文作者的twitter并提出宝贵意见：_[_https://twitter.com/zzmjxy_](https://twitter.com/zzmjxy)
