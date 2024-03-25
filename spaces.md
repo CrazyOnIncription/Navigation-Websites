@@ -78,6 +78,12 @@ The keynote speech by Erik[@BRC20Coins](https://twitter.com/BRC20Coins)[https://
 
 
 
+:smile: Jake Gallen采访：Mining ARC20 on top of Bitcoin | Atomicals
+
+[https://www.youtube.com/watch?v=JS4xCNFWO-I](https://www.youtube.com/watch?v=JS4xCNFWO-I)
+
+
+
 ***
 
 _欢迎关注本文作者的twitter并提出宝贵意见：_[_https://twitter.com/zzmjxy_](https://twitter.com/zzmjxy)
